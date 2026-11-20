@@ -1,1 +1,1 @@
-{"payload":{"v":1,"type":"status","issued_at":"2026-11-20T19:01:16.169Z","revoked":[],"revoked_customers":[],"mirrors":[]},"sig":"NVx0HHOYKNBs2zJjUEwQtdneAj6U7oehn9P44KBjLI7+mQn3ewu6QdyXedqJCG0u236RJ97VmOawugUo1GSiBQ=="}
+{"payload":{"v":1,"type":"status","issued_at":"2026-11-20T19:46:27.138Z","revoked":["00000000-demo-0000-0000-000000000000"],"revoked_customers":["DEMO-STOLEN-1"],"mirrors":[]},"sig":"rXsY2jJxEq4OZ4v4TO0p4WtpdR09BCGw4DHAzBknOpfh6sr2Jsf63nuH39ZQqEEv5ZKU+C5r4ARMKMDfxmBdDQ=="}
